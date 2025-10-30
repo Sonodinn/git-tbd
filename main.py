@@ -1,2 +1,1 @@
-print("L2")
-print("L1")
+Print("h")
